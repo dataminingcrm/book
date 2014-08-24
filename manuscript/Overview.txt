@@ -1,1 +1,9 @@
-This is the book introduction and overview.
+Book Goal:
+Pragmatic approach to data mining customer relationship management (CRM) data.
+
+3 Audiences:
+Financial Decision Maker (FDM): Chapters tagged with FDM provide insights to those with fiscal and fiducial responsibility; help define ROI of data mining projects.
+Business Decision Maker (BDM): Chapters tagged with BDM help Analysts and business leaders understand the capabilities of DM and how to setup DM projects for success.
+Technical Decision Maker (TDM): TDM chapters provide CIOs, Engineers with practical open source tools and recipes for implementing data mining and machine learning infrastructure and processes.
+
+
